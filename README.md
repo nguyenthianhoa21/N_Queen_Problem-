@@ -19,7 +19,7 @@ Environment Setup: Instructions on setting up the development environment and in
 Running the Solver: Guidelines on how to run the solver, input the value of N, and navigate through the solutions.
 Interpreting Results: Explanation of how to interpret the visual representation of solutions and the performance metrics.
 ## Developers
-Trịnh Hoàng An | 21127577
+Trịnh Hoàng An 
 
 ## Acknowledgements
 
